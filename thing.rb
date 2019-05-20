@@ -24,3 +24,5 @@ def thing(data)
     }
   }
 end
+
+thing(pigeon_data)
