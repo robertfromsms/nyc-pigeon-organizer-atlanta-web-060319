@@ -21,6 +21,7 @@ def thing(data)
   data.each {|traits, chars|
     chars.each {|char, piegons|
       puts char
+      puts piegons
     }
   }
 end
